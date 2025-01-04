@@ -27,3 +27,7 @@ ax.grid(True)
 plt.show()
 ```
 
+
+```{python}
+print('test')
+```
