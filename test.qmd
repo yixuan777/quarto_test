@@ -29,5 +29,5 @@ plt.show()
 
 
 ```{python}
-print('test_commit')
+print('test_pages')
 ```
